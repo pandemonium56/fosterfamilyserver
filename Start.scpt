@@ -1,0 +1,1 @@
+RustDedicated.app +server.port 28015 +server.level "Procedural Map" +server.seed 98 +server.worldsize 1000 +server.maxplayers 25 +server.hostname "Foster Family" +server.identity "1380898" +rcon.ip 127.0.0.1 +rcon.port 28016 +rcon.password 123456seven +query_port 28016 +nav_disable true -nologs -load
